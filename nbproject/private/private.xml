@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/LoginServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/dao/ProductDao.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/cart.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/includes/head.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/dao/UserDao.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/style.css</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/2.jpg</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/model/Cart.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/connection/TestDB.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/AddToCartServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/images/banner-img.png</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/RemoveFromCartServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/1.jpg</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/includes/footer.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/orders.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/CheckOutServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/includes/navbar.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/login.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/connection/DbCon.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/1.png</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/js/plugins.js</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/QuantityIncDecServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/model/Order.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/banner.jpg</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/dao/OrderDao.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/LogoutServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/CancelOrderServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/index.jsp</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/7.png</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/src/java/cn/techtutorial/servlet/OrderNowServlet.java</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/nbproject/build-impl.xml</file>
+            <file>file:/E:/Lap%20trinh%20web/shopping/web/product-image/3.jpg</file>
+        </group>
+    </open-files>
+</project-private>
